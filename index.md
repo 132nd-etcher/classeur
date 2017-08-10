@@ -1,11 +1,3 @@
-| Heading1 | Heading2  | Heading 3 |
-|--|--|--|
-| cell | cell | cell |
-
-
-----------
-
-
 # My first file
 
 Congratulations, you're editing your first Classeur file!
